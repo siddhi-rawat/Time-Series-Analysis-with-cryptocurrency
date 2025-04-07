@@ -67,13 +67,19 @@ Once published, access the report in the Power BI service to share it with stake
 Project Structure:-
 
 Project Files/: Contains the Power BI file and relevant scripts.
+
 Crypto_TimeSeries.pbix: Power BI report file with data transformations and dashboards.
+
 Data/: Raw and processed cryptocurrency datasets.
+
 Documentation/: Reports, guides, and usage instructions.
 
-Usage
+Usage:-
 
 Open the Crypto_TimeSeries.pbix file in Power BI Desktop.
+
 Explore pre-built dashboards and filters.
+
 Interact with visualizations to analyze trends and insights.
+
 Publish the report to share with stakeholders.
