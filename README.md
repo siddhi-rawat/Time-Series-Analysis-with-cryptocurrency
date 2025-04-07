@@ -38,13 +38,17 @@ Kaggle dataset (Cryptocurrency data)
 
 Installation
 1.Download the Dataset: Obtain the Cryptocurrency dataset from Kaggle. You can download it from the Kaggle Cryptocurrency Dataset.
+
 2.Open Power BI Desktop: If you don’t have Power BI Desktop installed, download and install it from the Power BI website.
+
 3.Load the Data: Open Power BI Desktop and load the Cryptocurrency dataset:
 Go to Home > Get Data > CSV (or the format of your dataset).
 Select the downloaded dataset file and click Load.
+
 4.Transform and Clean Data: Use Power Query Editor to perform data transformation and cleaning:
 Go to Home > Transform Data.
 Apply necessary transformations to prepare the data for analysis.
+
 5.Create KPIs and Dashboards: Use DAX to create calculations and KPIs:
 Go to Modeling > New Measure to define new metrics.
 Design visualizations and arrange them into dashboards.
